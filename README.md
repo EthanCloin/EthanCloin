@@ -15,6 +15,7 @@ Thanks for taking this moment to visit my profile. Let me help you find what you
 ## Recent Projects :hourglass:
 
 <!-- maybe there is a prettier way to embed here? -->
+- [Finance Forecaster](https://github.com/EthanCloin/financial-forecast)
 - [Issue Tracker](https://github.com/ethancloin/issue-tracker)
 - [Order Processor](https://github.com/ethancloin/order-processor-assessment)
 
